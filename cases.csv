@@ -1,0 +1,201 @@
+case_id,client_name,lawyer,practice_area,status,start_date,due_date,end_date
+1000,Clarke-Hines,Shawn Jensen,Criminal,Delayed,2025-03-18,2025-07-06,
+1001,Farley-Harvey,Ariel Stephens,Criminal,In Progress,2025-03-27,2025-06-12,
+1002,"Armstrong, Brown and Padilla",Donna Johnson,Family,Delayed,2025-03-28,2025-05-31,
+1003,Forbes-Griffin,Mary Ferrell,Family,In Progress,2025-04-17,2025-06-28,
+1004,"Shepherd, Taylor and Garcia",Anna Snyder,Corporate,In Progress,2025-04-18,2025-06-08,
+1005,Sanchez Ltd,Travis Ayers,Civil,Delayed,2025-03-19,2025-04-24,
+1006,Vazquez-Romero,Kimberly Meyer,Litigation,Delayed,2025-02-01,2025-06-27,2025-07-13
+1007,Gray Inc,Michelle Williams,Criminal,In Progress,2024-12-24,2025-06-01,
+1008,Wells-Ramirez,Kristin Smith,Litigation,Delayed,2024-12-28,2025-04-27,
+1009,"Hughes, Macdonald and Rose",Jennifer Briggs,Civil,In Progress,2025-04-17,2025-05-30,
+1010,"Wilkinson, Black and Young",Jessica Conley,Civil,Delayed,2025-02-04,2025-06-13,
+1011,"Tanner, Barton and Garrett",Nicholas Scott,Criminal,In Progress,2025-03-26,2025-04-30,
+1012,"Walker, Jackson and Price",Louis Rivers,Corporate,Delayed,2025-01-24,2025-07-19,
+1013,"Herman, Fields and Shaw",Jessica Rice,Criminal,Closed,2025-02-11,2025-06-01,
+1014,"Kim, Andersen and Duran",Darren Clark,Civil,In Progress,2025-02-03,2025-04-30,2025-07-09
+1015,Johnson Ltd,Cynthia Fletcher,Family,In Progress,2025-02-22,2025-06-12,
+1016,Murphy-Osborne,Joshua Rich,Corporate,Closed,2025-01-26,2025-05-10,
+1017,"Hall, Norris and Vazquez",Karen Cook,Civil,In Progress,2025-04-14,2025-07-08,2025-07-17
+1018,Martinez LLC,Melinda Bowers,Family,In Progress,2025-03-25,2025-06-26,2025-07-16
+1019,"Randolph, Pena and Meyer",Tracy Wilson,Civil,In Progress,2025-01-30,2025-07-17,
+1020,Anderson and Sons,Jessica Williams,Criminal,In Progress,2025-02-11,2025-06-26,
+1021,Hutchinson Group,Michael Miller,Civil,Closed,2025-04-12,2025-05-02,
+1022,"Roberts, Mullins and Bennett",Patrick Martinez,Corporate,In Progress,2025-01-20,2025-05-16,
+1023,Silva-Robertson,Sonya Horton,Criminal,Delayed,2025-03-10,2025-06-09,2025-07-14
+1024,Lopez-Livingston,Amy Wilson,Litigation,In Progress,2025-04-02,2025-06-26,
+1025,"Gibbs, Dawson and Anderson",Faith Reid,Corporate,Delayed,2025-01-28,2025-04-21,
+1026,Long and Sons,Robert Rogers,Corporate,In Progress,2025-03-12,2025-05-24,
+1027,James Group,Robert Boyer,Corporate,Closed,2025-04-19,2025-06-03,2025-07-01
+1028,Holmes-Leon,Nicole Norton,Corporate,In Progress,2025-02-18,2025-07-16,2025-07-17
+1029,Erickson LLC,Kevin Johnson,Corporate,In Progress,2025-03-28,2025-05-23,
+1030,"Brown, Mata and Walker",Rachel Johnson,Civil,In Progress,2025-03-05,2025-06-25,2025-07-01
+1031,"Hall, Frank and Caldwell",Lydia Taylor,Civil,Closed,2025-02-20,2025-05-24,
+1032,Baird-Garcia,Neil Wright,Family,Delayed,2025-03-15,2025-06-05,
+1033,Craig-Robinson,Janice Paul,Civil,In Progress,2025-01-31,2025-05-18,
+1034,Johnson-Boone,James Cortez,Litigation,Closed,2025-02-13,2025-06-30,2025-07-14
+1035,Mitchell PLC,Mary Ayala,Corporate,Delayed,2025-01-24,2025-05-28,2025-07-15
+1036,Downs-Watson,Evan Sanders,Civil,In Progress,2025-02-27,2025-06-12,
+1037,"Wright, Cruz and Mosley",Kelsey Shepherd,Litigation,Closed,2025-02-14,2025-05-13,
+1038,Warren LLC,Albert Randall,Criminal,Delayed,2025-01-26,2025-05-01,2025-05-14
+1039,Doyle and Sons,Paul Johnson,Corporate,Closed,2025-03-23,2025-05-26,
+1040,Mcintyre Group,Randy Carter,Corporate,In Progress,2025-03-19,2025-07-02,
+1041,Buck Inc,Cristian Roberts,Corporate,Closed,2025-02-21,2025-04-30,2025-05-14
+1042,"Anderson, Martinez and Hopkins",Denise Johnson,Civil,In Progress,2025-03-23,2025-06-29,
+1043,Garcia-Jackson,Cindy Ellis,Corporate,Delayed,2025-03-31,2025-07-01,2025-07-08
+1044,Wood LLC,Amy Brown,Corporate,In Progress,2025-03-15,2025-07-14,
+1045,Little-Porter,Joshua Crane,Litigation,Closed,2025-01-29,2025-06-09,2025-06-23
+1046,Hernandez-Lynch,David Miller,Civil,Delayed,2025-01-02,2025-05-07,
+1047,"Garrett, Lewis and Perez",Valerie Fletcher,Corporate,Closed,2025-02-18,2025-06-09,
+1048,Miller Ltd,Thomas Wallace,Family,Delayed,2025-03-21,2025-06-24,
+1049,Smith-Villarreal,Stefanie Gutierrez,Criminal,Delayed,2025-02-07,2025-06-20,2025-06-24
+1050,Davis-Stark,Daniel Jones,Civil,In Progress,2025-01-14,2025-05-13,2025-06-08
+1051,"Ryan, Donovan and Meza",Johnny Mendez,Civil,In Progress,2025-02-06,2025-05-13,
+1052,"Kelley, Smith and Stewart",Crystal Smith,Civil,Closed,2025-02-04,2025-05-17,
+1053,Alvarez Inc,Hailey Horn,Corporate,Delayed,2025-02-23,2025-07-15,
+1054,Schroeder-Alvarez,Nathan Morrow,Litigation,Delayed,2024-12-24,2025-07-19,2025-07-19
+1055,"Martin, Stone and Fisher",Garrett Francis,Litigation,In Progress,2025-01-27,2025-05-11,2025-06-26
+1056,Ibarra Inc,Ryan Garcia,Family,In Progress,2025-03-02,2025-06-09,
+1057,James PLC,Randall Anderson,Family,Delayed,2025-02-17,2025-06-18,2025-07-14
+1058,Johnson Group,Brian Harris,Litigation,Closed,2025-03-07,2025-06-16,
+1059,"Butler, Ballard and Scott",Patrick Patton,Litigation,In Progress,2025-02-11,2025-06-30,
+1060,"Jackson, Shelton and Lamb",Kimberly Vasquez,Family,Delayed,2025-03-04,2025-07-06,
+1061,Jenkins PLC,Pamela Grant,Civil,Closed,2025-01-01,2025-04-20,2025-06-09
+1062,Rich Group,Stephanie Ray,Litigation,Delayed,2024-12-30,2025-04-21,
+1063,"Williams, Vasquez and Thomas",Joshua Baker,Corporate,Closed,2025-02-03,2025-05-03,
+1064,Wilson and Sons,Jacqueline Wells,Criminal,Closed,2025-01-11,2025-07-08,2025-07-12
+1065,"Henderson, Davidson and Gibson",Jonathan Wright,Corporate,In Progress,2025-03-12,2025-05-06,2025-05-14
+1066,Campbell PLC,Tammie Moore,Litigation,In Progress,2025-02-23,2025-07-06,
+1067,Wilson-Kaiser,Carlos Barnes,Civil,Delayed,2025-01-28,2025-06-05,
+1068,"Richardson, White and Dominguez",Kristen Eaton,Family,Delayed,2025-04-15,2025-05-09,2025-06-12
+1069,Bailey Inc,Melissa Gonzalez,Litigation,In Progress,2024-12-24,2025-05-20,
+1070,"Johnson, Gonzalez and Beck",Emily Villegas,Criminal,Delayed,2025-03-23,2025-07-19,
+1071,"Flores, Fritz and Cummings",William Kelly,Family,Delayed,2025-02-03,2025-05-27,2025-07-14
+1072,Hall-Williams,Bethany Lee,Litigation,In Progress,2025-03-26,2025-04-29,
+1073,"Roberts, Kemp and Smith",Abigail Mitchell,Litigation,Closed,2025-02-18,2025-07-12,
+1074,"Jones, Romero and Harvey",Paul White,Corporate,In Progress,2024-12-21,2025-05-18,2025-06-05
+1075,Berg Inc,Jason Pearson,Criminal,Closed,2025-02-14,2025-05-14,
+1076,Ward-Williams,Carmen Higgins,Family,Delayed,2025-03-13,2025-04-25,
+1077,Watkins Group,Cathy Lee,Corporate,Delayed,2025-02-23,2025-05-02,2025-06-05
+1078,Oconnell-Robertson,Jonathan Odonnell,Litigation,Delayed,2025-04-03,2025-06-22,2025-07-08
+1079,Maxwell Inc,Jonathan Powell,Litigation,In Progress,2025-02-04,2025-05-22,2025-06-26
+1080,Gilmore Group,Donna Diaz,Litigation,In Progress,2025-01-18,2025-06-06,
+1081,Nguyen Inc,Kimberly Reed,Criminal,In Progress,2025-03-24,2025-06-24,2025-07-15
+1082,Leonard PLC,Jordan Holland,Civil,In Progress,2025-02-28,2025-07-13,
+1083,"Lopez, Barber and Wise",Rita Richardson,Civil,Delayed,2025-01-15,2025-05-06,
+1084,Flores-Klein,Nicole Garner,Corporate,Delayed,2024-12-26,2025-05-22,
+1085,"Marshall, Clements and Ward",Ricky Hill,Civil,In Progress,2025-01-23,2025-06-26,
+1086,Jones Ltd,Patrick Serrano,Family,Delayed,2025-04-16,2025-04-25,
+1087,Frost-Neal,John Higgins,Litigation,Delayed,2025-04-03,2025-07-01,2025-07-06
+1088,"Johnson, Reed and Kaiser",Michael Avila,Family,Closed,2024-12-20,2025-05-11,2025-06-12
+1089,"Ramirez, Powers and Bell",Zachary Mann,Litigation,Delayed,2025-01-09,2025-04-30,
+1090,Bullock-Wood,Julie Jacobs,Criminal,In Progress,2025-04-15,2025-05-30,
+1091,Taylor-Morris,Douglas Chapman,Civil,In Progress,2025-01-03,2025-05-04,
+1092,Gonzales Ltd,Patricia Cervantes,Civil,Closed,2025-03-24,2025-05-31,2025-07-16
+1093,Jackson-Blankenship,Elizabeth Scott,Litigation,In Progress,2025-04-02,2025-06-29,
+1094,Wright Ltd,Timothy Olsen,Criminal,In Progress,2025-01-07,2025-05-07,2025-05-09
+1095,"Lozano, Butler and Nelson",Robert King,Corporate,Delayed,2025-04-12,2025-06-28,
+1096,Rodriguez Inc,Andrew Sharp,Litigation,In Progress,2025-01-27,2025-07-10,2025-07-18
+1097,Rogers Inc,John Mckee,Corporate,Closed,2025-01-05,2025-04-22,
+1098,"Watson, Wright and Pena",James Martinez,Civil,In Progress,2025-04-05,2025-05-27,2025-07-05
+1099,"Larson, Nolan and Burns",Sheena Marks,Family,Closed,2025-01-28,2025-06-25,2025-07-17
+1100,Stephenson-Davis,Antonio Davis,Criminal,In Progress,2025-03-02,2025-06-24,
+1101,Duke Ltd,Joseph Singh,Family,Closed,2025-04-05,2025-05-23,2025-05-29
+1102,Sanchez LLC,Michael Ali,Litigation,Delayed,2025-02-16,2025-05-10,2025-07-08
+1103,"Harrison, Pugh and Francis",Michelle Mcdonald,Criminal,Delayed,2025-01-20,2025-04-28,2025-07-12
+1104,"Phillips, Carr and Herman",Joseph Huffman,Corporate,Delayed,2025-03-30,2025-05-27,
+1105,Williams-Larsen,Jack Garner,Criminal,Delayed,2024-12-21,2025-05-03,2025-05-26
+1106,"Vaughn, Evans and Jones",Brian Schmitt,Corporate,In Progress,2025-01-23,2025-04-30,
+1107,Bailey Group,Brian Williams,Civil,In Progress,2025-02-14,2025-04-20,2025-06-29
+1108,James-Peterson,Willie Gates,Civil,In Progress,2025-01-21,2025-06-27,
+1109,Sanders PLC,Caleb Carter,Litigation,Closed,2025-01-14,2025-04-25,
+1110,Tucker Ltd,Julie Holt,Family,Delayed,2024-12-27,2025-04-26,
+1111,Gomez-Martinez,Jerry Nelson,Corporate,In Progress,2025-03-09,2025-07-19,2025-07-19
+1112,"West, Miller and Jenkins",Gregory Davidson,Civil,In Progress,2025-02-04,2025-07-10,
+1113,"Herring, Hess and Middleton",Helen Smith,Family,In Progress,2025-01-17,2025-04-27,
+1114,Wade-Jones,Dwayne Klein,Corporate,Closed,2024-12-23,2025-06-19,
+1115,Murray-Hardy,Megan Rios,Family,In Progress,2024-12-25,2025-05-30,
+1116,Rogers Ltd,Nathaniel Johnson,Corporate,Closed,2025-01-07,2025-04-23,2025-04-24
+1117,"Hebert, Parker and Calhoun",Regina Ware,Corporate,In Progress,2025-03-02,2025-06-02,
+1118,Lee-Hurst,Patrick Mcmahon,Family,Closed,2025-02-10,2025-06-15,2025-06-30
+1119,Lindsey Ltd,Jennifer Brooks,Criminal,In Progress,2024-12-23,2025-06-22,2025-07-05
+1120,"Phillips, Perry and Mendoza",John Bond,Family,In Progress,2025-01-12,2025-06-24,2025-07-07
+1121,"Rojas, Mitchell and Lewis",Steven James,Litigation,Closed,2025-01-03,2025-07-03,
+1122,Clark-Blake,Brian Deleon,Criminal,Delayed,2025-01-30,2025-06-19,2025-06-24
+1123,Patterson-Bender,Gary Morris,Litigation,Closed,2025-04-18,2025-06-09,
+1124,Montgomery Ltd,Joyce Payne,Civil,In Progress,2025-03-31,2025-05-10,
+1125,Simmons Group,Tiffany Mccormick,Civil,Delayed,2025-01-29,2025-06-26,2025-07-14
+1126,"Petersen, Myers and Pierce",Jody Mann,Criminal,In Progress,2025-04-15,2025-05-02,2025-07-02
+1127,Smith-Wagner,Leah Lucas,Civil,Closed,2025-01-08,2025-04-22,2025-06-28
+1128,Jenkins LLC,Karen Gray,Criminal,Closed,2025-01-12,2025-06-10,
+1129,Harris Ltd,Morgan Stephens,Corporate,Delayed,2025-01-03,2025-05-06,2025-06-25
+1130,Brown-Day,Anna Thompson MD,Civil,Delayed,2025-04-09,2025-06-09,2025-06-20
+1131,"Cooke, Reid and Aguilar",Harold Brown,Litigation,Closed,2025-01-10,2025-06-15,
+1132,"Gutierrez, Ramsey and Brown",Candace George,Litigation,Delayed,2025-04-01,2025-05-15,2025-07-17
+1133,"Livingston, Moody and Glover",Lisa Hawkins,Litigation,In Progress,2025-02-07,2025-07-01,2025-07-12
+1134,Wright Ltd,Sarah Underwood,Criminal,In Progress,2024-12-26,2025-07-09,
+1135,"Terry, Bass and Griffin",Theresa Rivera,Corporate,Closed,2025-04-12,2025-06-22,
+1136,"King, Wagner and Thompson",Mackenzie Thomas,Corporate,Delayed,2025-02-06,2025-04-22,
+1137,Scott-Torres,Ryan White,Civil,Delayed,2025-01-20,2025-05-01,
+1138,Rowe-Jackson,Richard Woods,Civil,Delayed,2025-01-31,2025-05-05,
+1139,"Davis, Gentry and Carter",Victoria Huber,Litigation,In Progress,2025-03-26,2025-06-20,
+1140,"Morgan, Owen and Ochoa",Jason King,Family,Delayed,2025-03-31,2025-07-11,2025-07-12
+1141,Walker-Harris,Michael Guerrero,Family,Delayed,2025-02-20,2025-07-06,2025-07-15
+1142,"Brown, Morrow and Miller",Hunter Johnson,Litigation,In Progress,2025-01-18,2025-06-18,
+1143,Brown Ltd,Jenna Smith,Family,Closed,2025-01-10,2025-05-04,
+1144,Jarvis Group,Andrew Knight,Litigation,Delayed,2024-12-26,2025-04-20,2025-05-04
+1145,"Lloyd, Francis and Morales",Andrea Gonzalez,Criminal,Closed,2025-03-06,2025-05-11,
+1146,Park and Sons,Ray Williams,Litigation,Closed,2025-04-09,2025-05-10,2025-07-12
+1147,Johnson-Thomas,Peter Hall,Family,In Progress,2025-03-04,2025-07-10,
+1148,"Gardner, Walker and Steele",Cody Reed,Corporate,Closed,2025-02-25,2025-06-07,
+1149,"Zimmerman, Russell and Ray",Misty Hayden,Criminal,Delayed,2025-04-10,2025-05-27,
+1150,Johnson Group,Samantha Hansen,Litigation,Closed,2025-03-12,2025-06-12,
+1151,Franklin PLC,Guy Ramos,Criminal,Delayed,2025-01-02,2025-07-08,
+1152,"Obrien, Moreno and Scott",Natasha Anderson,Criminal,In Progress,2025-02-19,2025-05-14,
+1153,Hughes-Brown,Earl Taylor,Corporate,Closed,2025-02-15,2025-07-14,2025-07-18
+1154,Cruz LLC,William Hendrix,Litigation,Closed,2025-02-17,2025-06-25,
+1155,Alvarado-Casey,David Nelson,Litigation,Delayed,2025-03-04,2025-04-28,
+1156,Morris Ltd,Sharon Dougherty,Litigation,In Progress,2025-04-03,2025-06-16,
+1157,"Sparks, Taylor and Elliott",Christine Green,Civil,Closed,2025-03-28,2025-06-18,
+1158,Parker Ltd,Devin Velasquez,Litigation,In Progress,2025-01-13,2025-06-23,2025-07-11
+1159,Dominguez-Duncan,William Parker,Litigation,Delayed,2025-03-15,2025-06-18,
+1160,"Patrick, Murphy and Dominguez",Shawn Williams,Criminal,In Progress,2025-03-11,2025-05-02,
+1161,Blackwell-Leonard,Paul Smith,Corporate,In Progress,2025-02-25,2025-06-14,
+1162,Phillips Ltd,William Contreras,Family,In Progress,2025-04-17,2025-07-17,
+1163,"Burns, Long and Smith",Kimberly Bailey,Criminal,Closed,2025-04-09,2025-06-04,2025-07-16
+1164,"Chan, Jones and Martinez",David Rivera,Corporate,Closed,2025-02-27,2025-05-30,2025-06-23
+1165,Rhodes and Sons,Jeffrey Martin,Family,Closed,2025-03-30,2025-05-13,
+1166,Leonard-Johnson,Caroline Torres,Civil,Delayed,2025-04-04,2025-04-21,2025-06-04
+1167,"Reynolds, Hess and Smith",Kevin Murray,Criminal,Closed,2024-12-19,2025-06-01,
+1168,"Martinez, Davis and Flowers",Cheyenne Malone,Civil,In Progress,2024-12-27,2025-06-29,2025-07-17
+1169,Patton Ltd,Rhonda Thompson,Family,Delayed,2025-01-14,2025-07-02,
+1170,Bailey-Keller,Bianca Diaz,Corporate,Delayed,2025-02-01,2025-05-25,2025-06-20
+1171,Bean PLC,Samuel York,Criminal,In Progress,2025-02-15,2025-06-22,
+1172,"Curry, Fernandez and Wong",Ernest Brown,Family,Delayed,2025-01-10,2025-06-01,
+1173,Lawson-Henderson,Valerie Evans,Corporate,In Progress,2025-01-25,2025-05-22,
+1174,"Lawrence, Gibson and Payne",Michael Ramos,Family,Closed,2025-02-23,2025-05-06,2025-05-20
+1175,"Murphy, Mcfarland and Wolfe",Ryan Melendez,Criminal,In Progress,2025-03-23,2025-06-16,
+1176,Murray Ltd,Thomas Bennett,Criminal,Delayed,2025-03-30,2025-05-02,2025-06-17
+1177,"Reed, Mccarthy and Mitchell",Deborah Young,Family,Delayed,2025-04-14,2025-05-08,2025-07-02
+1178,"Martinez, Clark and Chandler",James Carson,Corporate,In Progress,2025-01-09,2025-07-06,2025-07-17
+1179,Moreno LLC,Tonya Garcia,Criminal,In Progress,2025-02-18,2025-06-27,
+1180,"Harris, Howard and Stout",Alexa Jones,Family,Delayed,2025-02-23,2025-06-12,2025-07-01
+1181,"Brown, Mullen and Jordan",Jordan Evans,Corporate,In Progress,2025-03-29,2025-07-11,
+1182,Holmes PLC,Samuel Simon,Litigation,Closed,2025-02-13,2025-07-16,
+1183,Martinez-Williams,Megan Williams,Family,Closed,2025-02-16,2025-07-12,2025-07-19
+1184,West Ltd,Brandon Cole,Litigation,In Progress,2025-01-15,2025-06-04,2025-06-17
+1185,"Jones, Mack and Adams",Jean Fisher,Civil,Delayed,2025-01-04,2025-05-27,
+1186,Rowe-Wade,Paul Rowland,Litigation,Delayed,2025-02-01,2025-05-23,
+1187,"Jennings, Bowman and Harper",Brandon Kim,Family,Delayed,2025-01-25,2025-06-13,2025-07-10
+1188,Friedman LLC,Carla Michael,Litigation,In Progress,2025-03-04,2025-05-04,
+1189,Rowland Ltd,Kevin Butler,Corporate,Delayed,2025-01-14,2025-06-22,
+1190,"Sullivan, Gutierrez and Ramos",Kimberly Johnson,Criminal,Delayed,2025-02-25,2025-05-14,2025-07-03
+1191,Hayes PLC,Rodney Burton,Family,In Progress,2025-01-12,2025-06-05,
+1192,Mcintosh-Rubio,Kathleen Velasquez,Criminal,Closed,2025-01-18,2025-06-24,2025-06-29
+1193,Davis PLC,Douglas Hayden,Litigation,In Progress,2025-02-13,2025-06-25,
+1194,Vazquez and Sons,Richard Gould,Criminal,Delayed,2025-02-26,2025-06-09,
+1195,Coffey-Duncan,Sarah Williams,Corporate,Delayed,2025-03-08,2025-05-19,2025-06-02
+1196,"Kane, Gray and Cortez",John Hill,Civil,Delayed,2024-12-22,2025-05-26,2025-06-10
+1197,Reed-Walker,Christopher Lee,Family,Closed,2025-02-14,2025-05-13,2025-05-22
+1198,"Hudson, Ramirez and Wright",Riley Whitaker,Family,In Progress,2025-04-19,2025-07-06,
+1199,Schultz Ltd,Katherine Hart,Corporate,Delayed,2025-04-16,2025-05-09,
